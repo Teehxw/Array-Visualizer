@@ -1,1 +1,4 @@
-console.log("hi");
+// Array Visualizer
+
+// Global Variable 
+let myData = []
